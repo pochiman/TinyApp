@@ -5,7 +5,7 @@
 ## Final Product
 
 !["login"](https://github.com/pochiman/TinyApp/blob/master/docs/login.png)
-!["main"](https://github.com/pochiman/TinyApp/blob/master/docs/main.png)
+!["home"](https://github.com/pochiman/TinyApp/blob/master/docs/home.png)
 !["dashboard"](https://github.com/pochiman/TinyApp/blob/master/docs/dashboard.png)
 
 ## Getting Started
