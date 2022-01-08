@@ -4,13 +4,13 @@ TinyApp is a full stack web application built with Python and Django that allows
 
 # Link to Deployed App
 
-[Link text here](link-to-app)
+[TinyApp](https://tinyapp-pochiman.herokuapp.com/)
 ** notes here **
 
 ## Final Product
 
-!["screenshot description"](link-to-your-pic-here)
-!["screenshot description"](#)
+!["Login"](link-to-your-pic-here)
+!["Dashboard"](#)
 
 ## Dependencies
 
