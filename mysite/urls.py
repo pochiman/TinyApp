@@ -27,3 +27,4 @@ urlpatterns = [
     path('dashboard/', include("services.urls")),
     path("<str:alias>",redirect_to_target_page)
 ] + static(settings.STATIC_URL,document_root = settings.STATIC_ROOT)
+ 
